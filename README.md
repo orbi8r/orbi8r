@@ -11,7 +11,7 @@ Leaning Godot 4, Electronic music, DaVinci Editor, ML and doing College work :)
 * 🧠  I'm learning ML simulations in Python, connected to Godot
 * ⚡  I have a lot to do, but I wanna do more!
 
-![](https://github.com/user-attachments/assets/decbc9f5-d460-473a-ad5f-177d761a52b5)
+![](https://github.com/user-attachments/assets/d81df0b0-b1e1-4835-8d22-3b530bf2cfa0)
 
 ### Skills (Issues)
 
