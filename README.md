@@ -13,7 +13,7 @@ Leaning Godot 4, Electronic music, DaVinci Editor, ML and doing College work :)
 
 ![](https://github.com/user-attachments/assets/d81df0b0-b1e1-4835-8d22-3b530bf2cfa0)
 
-### Skills (Issues)
+### Skill (Issues)
 
 
 <p align="left">
